@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/com/GoodsService2.java=UTF-8
+encoding//src/com/Main.java=UTF-8
+encoding//src/com/MyServlet.java=UTF-8
+encoding//src/com/UserDAOBean.java=UTF-8
+encoding//src/com/db/core/DBHelp.java=UTF-8
+encoding//src/com/db/core/JdbcTemplate.java=UTF-8
+encoding//src/com/db/core/PreparedStatementCreator.java=UTF-8
+encoding//src/com/db/core/RowCallbackHandler.java=UTF-8
+encoding//src/com/layerdemo/service/imp/CustomerServiceImp.java=UTF-8
+encoding//src/com/layerdemo/ui/Controller.java=UTF-8
+encoding//src/com/store/dao/imp/CustomerDaoImpJdbc.java=UTF-8
+encoding//src/com/store/service/imp/OrdersServiceImp.java=UTF-8
+encoding//src/com/store/web/Controller.java=UTF-8
+encoding//src/com/store/web/LoginCheckFilter.java=UTF-8
+encoding//srctest/com/layerdemo/dao/imp/CustomerDaoImpJdbcTest.java=UTF-8
+encoding//srctest/com/layerdemo/service/imp/CustomerServiceImpTest.java=UTF-8
